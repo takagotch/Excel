@@ -13,8 +13,15 @@ https://drive.google.com/drive/folders/1ykrC6_buvuVbfz0lgmD9HI_H0GRBb4lF
 https://accounting.moneyforward.com/books?cti=eW6e85GUZq3f1iyJcnXkGA&order_list=order%2Corder_number&page_limit=50&selected_dr_sub_item_id=&selected_cr_sub_item_id=&number=&recognized_at_from=2021%2F01%2F01&recognized_at_to=2021%2F12%2F31&journal_type_id=&tag_id=&value_min=&value_max=&remark=&dr_item_id=&dr_sub_item_id=&cr_item_id=10929831&cr_sub_item_id=&order=desc&order_number=desc&order=asc&order_number=asc
 
 
-######
-######
+######　小規模事業者★★★
+https://drive.google.com/drive/folders/1K13PRs6hhRyayb7J7eFIc6DUI6JVERGo
+
+######　事業再構築★★
+https://drive.google.com/drive/folders/1K13PRs6hhRyayb7J7eFIc6DUI6JVERGo
+
+
+
+
 ######
 ######
 ######
@@ -35,6 +42,9 @@ https://accounting.moneyforward.com/books?cti=eW6e85GUZq3f1iyJcnXkGA&order_list=
 ```
 ```
 
+
+```
+```
 
 
 
