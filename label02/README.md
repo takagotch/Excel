@@ -8,6 +8,7 @@ https://labelmake.jp/templates/
 
 ###### 送り先　履歴　Excel
 https://docs.google.com/spreadsheets/d/1Azz2piGCgeV6IFAfrokUNiyh-lwWwDySmFqWrQ35tbg/edit#gid=1900634930
+###### 送り先　履歴　Excel　クリックポスト
 https://clickpost.jp/
 
 
