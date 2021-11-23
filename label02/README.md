@@ -13,6 +13,8 @@ https://docs.google.com/spreadsheets/d/1Azz2piGCgeV6IFAfrokUNiyh-lwWwDySmFqWrQ35
 ###### 送り先　履歴　Excel　クリックポスト
 https://clickpost.jp/
 
+######　クリックポスト
+https://clickpost.jp/
 
 
 
@@ -26,8 +28,6 @@ https://clickpost.jp/
 
 
 
-
-######
 ######
 ######
 
