@@ -1,5 +1,8 @@
 ### Excel
 ---
+### 長形3号封筒 (120×235mmのA4横三つ折りが入る定番の封筒サイズ。*「定形郵便物」*で送れます。)
+https://labelmake.jp/label-editor/visual?template=ad6c36a0-ea8d-11ea-9e77-77b0fd18a57a
+
 ###### [./label02/README.md　クリックポスト・レターパックライト・宛名ラベル](https://github.com/takagotch/Excel/tree/master/label02)
 
 
