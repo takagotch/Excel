@@ -5,6 +5,7 @@ https://labelmake.jp/label-editor/visual?template=ad6c36a0-ea8d-11ea-9e77-77b0fd
 
 ###### [./label02/README.md　クリックポスト・レターパックライト・宛名ラベル](https://github.com/takagotch/Excel/tree/master/label02)
 
+###### ./sheet/証明写真（ﾋﾟｸｷｬﾝ・ｺﾝﾋﾞﾆ）jp.idphoto4you.com
 
 ###### 提出資料
 https://docs.google.com/spreadsheets/d/1ftHbw0RzXlR-Er1L54o6lZKvExqTEOOJRfjxVHOImHI/edit#gid=663381680
