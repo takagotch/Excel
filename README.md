@@ -32,6 +32,22 @@ Lサイズ（フォト用紙） 1枚200円
 ◆――――――◆
 ```
 
+```
+IdPhoto4You 
+国
+日本
+写真
+パスポート (3.5 x 4.5)
+印刷サイズ
+9x13 cm (3.5x5 inch)
+画像ファイル
+```
+```
+IdPhoto4You 
+
+```
+
+
 #### 提出資料
 https://docs.google.com/spreadsheets/d/1ftHbw0RzXlR-Er1L54o6lZKvExqTEOOJRfjxVHOImHI/edit#gid=663381680
 
