@@ -43,10 +43,13 @@ IdPhoto4You
 画像ファイル
 ```
 ```
-IdPhoto4You 
+写真プリントはこれまでのLサイズ（89×127mm）に加えて2Lサイズ（127×178mm）に対応。
 
+パスポート用、背景青
+
+https://photobooth.online/ja-jp/japanese-passport-photo
 ```
-
+[パスポート用、背景青](https://photobooth.online/ja-jp/japanese-passport-photo)
 
 #### 提出資料
 https://docs.google.com/spreadsheets/d/1ftHbw0RzXlR-Er1L54o6lZKvExqTEOOJRfjxVHOImHI/edit#gid=663381680
